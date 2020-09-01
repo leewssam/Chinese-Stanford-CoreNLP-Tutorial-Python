@@ -1,4 +1,4 @@
-# Tutorial on how to install and use StanfordCore NLP Chinese on Windows and connect via Stanza.
+# Tutorial on how to install and use StanfordCore NLP Chinese on Windows and connect via Stanza [Python].
 
 
 ## Pre-requiste before installing StanfordCore NLP
